@@ -1,0 +1,22 @@
+# No external dependencies
+
+All experiments in the DAA Lab use only Python standard library modules:
+- heapq (priority queues)
+- random (random number generation)
+- time (performance measurement)
+- itertools (permutations)
+- sys (system operations)
+- math (mathematical functions)
+
+These are included with Python 3.6+ and require no installation.
+
+## Python Version Requirement
+Python 3.6 or higher (Recommended: Python 3.8+)
+
+## To Run
+Simply execute any experiment file:
+    python exp01_interpolation_search.py
+    python exp02_string_matching.py
+    ... and so on
+
+No pip install required!
